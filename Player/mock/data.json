@@ -1,0 +1,51 @@
+[
+    {
+        "image": "/source/song_1.jpg",
+        "audio": "/source/song_1.mp3",
+        "song": "黄色枫叶",
+        "album": "薛之谦",
+        "singer": "薛之谦",
+        "duration": 252
+    },
+    {
+        "image": "/source/song_2.jpg",
+        "audio": "/source/song_2.mp3",
+        "song": "Always Online",
+        "album": "JJ陆",
+        "singer": "林俊杰",
+        "duration": 225
+    },
+    {
+        "image": "/source/song_3.jpg",
+        "audio": "/source/song_3.mp3",
+        "song": "刚刚好",
+        "album": "初学者",
+        "singer": "薛之谦",
+        "duration": 250
+        
+    },
+    {
+        "image": "/source/song_4.jpg",
+        "audio": "/source/song_4.mp3",
+        "song": "方圆几里",
+        "album": "意外",
+        "singer": "薛之谦",
+        "duration": 263
+    },
+    {
+        "image": "/source/song_5.jpg",
+        "audio": "/source/song_5.mp3",
+        "song": "我好像在哪见过你",
+        "album": "初学者",
+        "singer": "薛之谦",
+        "duration": 279
+    },
+    {
+        "image": "/source/song_6.jpg",
+        "audio": "/source/song_6.mp3",
+        "song": "暧昧",
+        "album": "暧昧",
+        "singer": "薛之谦",
+        "duration": 312
+    }
+]
